@@ -14,18 +14,6 @@ Welcome to my **Ender 3 Pro** repository! This is where I share all the upgrades
 - [STL Files](#): Link to STL files for parts like custom mounts, cooling ducts, etc.
 - [Documentation](#): Link to detailed guides or tips, including setup instructions or specific configuration tweaks.
 
-## Printer Modifications
-
-### 1. **[Upgrade/Modification Name]**
-   - Description of the upgrade and how it improves the performance or features of the printer.
-   - [STL File Link](#) – To download the STL for the modification.
-   
-### 2. **[Upgrade/Modification Name]**
-   - Description of the upgrade and its impact.
-   - [STL File Link](#)
-
-*(Add additional modifications as needed.)*
-
 ## How to Use
 
 1. Clone or download the repository.
@@ -41,5 +29,3 @@ If you have any suggestions or upgrades you’d like to share, feel free to fork
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
-
-Thanks for checking out my Ender 3 Pro upgrades and modifications! Happy printing! :3
