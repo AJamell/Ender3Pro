@@ -10,9 +10,10 @@ Welcome to my **Ender 3 Pro** repository! This is where I share all the upgrades
 
 ## Links
 
-- [Firmware Updates](/firmware): Link to any firmware upgrades you’ve implemented or recommend.
-- [STL Files](/Stlfiles)Link to STL files for parts like custom mounts, cooling ducts, etc.
+- [Firmware Updates](/firmware): Link to any firmware upgrades i implemented or recommend.
+- [STL Files](/Stlfiles): Link to STL files for parts like custom mounts, cooling ducts, etc.
 - [Documentation](/Documentation): Link to detailed guides or tips, including setup instructions or specific configuration tweaks.
+- [Onshape](/onshape): Link to tutorials, guides, documentations. 
 
 ## How to Use
 
